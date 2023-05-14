@@ -1,0 +1,109 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+  background-image: url("https://images.pexels.com/photos/415708/pexels-photo-415708.jpeg");
+  background-size: cover;
+  height: 100vh;
+}
+
+.Tourism-card-container {
+  background-color: #f2eded;
+  border-top-left-radius: 21px;
+  border-top-right-radius: 21px;
+  border-bottom-left-radius: 21px;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+  background-image: linear-gradient(#6be3d7, #0cabeb, #054aab);
+}
+
+.get-start {
+  color: #011838;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.Tourism-Heading {
+  font-family: "Caveat";
+  font-weight: Bold;
+  color: #000000;
+}
+
+.Tourism-Description {
+  font-family: "Times New Roman";
+  color: #00290b;
+}
+
+.bg-Favourite-places {
+  background-image: url("https://images.pexels.com/photos/414102/pexels-photo-414102.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+  background-size: cover;
+  height: 130vh;
+  padding: 20px;
+}
+
+.Favourite-Places-Head {
+  color: white;
+  font-family: "Caveat";
+  font-weight: lighter;
+  font-size: 40px;
+}
+
+.Favourite-Places-card-container {
+  background-color: white;
+  border-radius: 15px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.image1 {
+  width: 100px;
+  height: 80%;
+  border-radius: 5px;
+}
+
+.Favourite-Places-card-description {
+  font-size: 13px;
+  font-family: "Roboto";
+}
+
+.Favourite-Places-card-heading {
+  font-size: 30px;
+}
+
+.back-btn {
+  margin: 20px;
+}
+
+.detailed-view-bg-container {
+  margin: 0;
+  padding: 20px;
+  background: #ffe259;
+  background: -webkit-linear-gradient(to right, #ffa751, #ffe259);
+  background: linear-gradient(to right, #ffa751, #ffe259);
+}
+
+.detailed-view-card {
+  padding: 20px;
+}
+
+.detailed-view-heading {
+  font-family: "Georgia";
+  font-size: 32px;
+  font-weight: bolder;
+}
+
+.detailed-view-description {
+  font-family: "Times New Roman";
+  font-size: 13px;
+  color: darkgreen;
+}
+
+.unorder-designs {
+  color: #1b4022;
+  font-style: italic;
+}
+
+.buttonss {
+  margin-left: 240px;
+}
